@@ -12,7 +12,7 @@ margin:0 auto;
 
 export const MainDiv = styled.div`
 width:100vw;
-height:100vh;
+height:100dvh;
 
 
 `
